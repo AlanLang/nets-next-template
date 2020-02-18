@@ -51,7 +51,7 @@
     "superagent": "^5.1.0",
     "typeorm": "^0.2.20",
     "uuid": "^3.3.3",
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@nestjs/testing": "^6.5.2",
